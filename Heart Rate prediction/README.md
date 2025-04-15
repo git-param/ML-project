@@ -54,7 +54,7 @@ This project aims to **predict the likelihood of heart disease** in individuals 
 
 The plot below shows how the proportion of individuals with heart disease varies across age groups:
 
-![EDA Plot](../img/eda_plot.png)
+![EDA Plot](./eda_plot.png)
 
 ---
 
@@ -77,7 +77,7 @@ Each model was evaluated using **Accuracy**, **Precision**, **Recall**, and **F1
 
 ### 📊 Model Comparison Plot
 
-![Model Performance Plot](../img/model_plot.png)
+![Model Performance Plot](./model_plot.png)
 
 ---
 
