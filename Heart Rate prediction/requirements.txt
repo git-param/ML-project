@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+
+
+If you want to generate this file automatically from your working Python environment later, just run:
+```bash
+pip freeze > requirements.txt
+```
